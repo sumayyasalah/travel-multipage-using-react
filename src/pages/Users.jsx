@@ -2,10 +2,10 @@ import { Link } from 'react-router-dom';
 import './Users.css';
 
 const users = [
-  { id: 1, name: 'John Doe', email: 'john@example.com' },
-  { id: 2, name: 'Jane Smith', email: 'jane@example.com' },
-  { id: 3, name: 'Alice Johnson', email: 'alice@example.com' },
-  { id: 4, name: 'Bob Brown', email: 'bob@example.com' },
+  { id: 1, name: 'sumayya', email: 'sumayyasalah123@gmail.com' },
+  { id: 2, name: 'anvar', email: 'anvarrashhed786@gmail.com' },
+  { id: 3, name: 'bismi', email: 'bismisalah1995@gmail.com' },
+  { id: 4, name: 'surumi', email: 'sarahsalahudeen@gmail.com' },
 ];
 
 const Users = () => {
