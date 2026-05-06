@@ -1,6 +1,6 @@
-# Travel Multi-Page React Application
+# Whiteline Tour Concepts - Multi-Page React Application
 
-A React application built with Vite that demonstrates multi-page routing using React Router. This app showcases navigation between different pages, parameterized routes, and responsive UI design.
+A React application built with Vite that demonstrates multi-page routing using React Router. This app showcases navigation between different pages, parameterized routes, and responsive UI design for Whiteline Tour Concepts.
 
 ## Features
 

@@ -5,9 +5,9 @@ const About = () => {
   return (
     <div className="about">
       <div className="about-container">
-        <h1>About Travel App</h1>
+        <h1>About Whiteline Tour Concepts</h1>
         <p>
-          Travel App is your ultimate companion for exploring the world. Whether you're planning your next adventure,
+          Whiteline Tour Concepts is your ultimate companion for exploring the world. Whether you're planning your next adventure,
           connecting with fellow travelers, or discovering hidden gems, our app provides all the tools you need.
         </p>
         <p>

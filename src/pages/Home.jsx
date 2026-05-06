@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <div className="home">
       <div className="hero-section">
-        <h1>Welcome to Travel App</h1>
+        <h1>Welcome to Whiteline Tour Concepts</h1>
         <p>Explore the world with us. Discover amazing destinations and connect with fellow travelers.</p>
         <div className="home-links">
           <Link to="/about" className="btn">Learn More</Link>
